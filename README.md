@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marius</h1> <h3 align="center">A passionate frontend developer from Italy</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariuscucosmihai&label=Profile%20views&color=0e75b6&style=flat" alt="mariuscucosmihai" /> </p>
+  <h1 align="center">Hi 👋, I'm Nicola</h1> <h3 align="center">A passionate frontend developer from Italy</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngorbuleac&label=Profile%20views&color=0e75b6&style=flat" alt="ngorbuleac" /> </p>
 
 
 [![trophy](https://gh-trophy.cdnsoft.net/?username=ngorbuleac&theme=onedark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
