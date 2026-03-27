@@ -57,6 +57,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ngorbuleac/ngorbuleac/output/snake.svg" alt="Snake animation" />
 
 ###
